@@ -33,7 +33,7 @@ function App() {
   return (
     <div className="App">
       <HeaderProject />
-      <ScrollToTop/>
+      <ScrollToTop />
        <Routes>
         
         <Route path='/' element={<MainHome />} />
