@@ -1,0 +1,36 @@
+.g1 p{
+    color: white;
+}
+.g1{
+    padding: 50px;
+    border-radius: 30px;
+    background-color: #000c81 
+}
+.g2{
+    text-decoration: none;
+    display : block;
+    padding: 50px;
+    background-color: #5ead5e;
+    border-radius: 8px;
+    color: white;
+    font-size: medium;
+    
+}
+.g3{
+   position: relative;
+   top : 100px;
+   /* background-color: #dfdbdb; */
+   background-color: #f1f1f1;
+   border-radius: 10px;
+   margin-bottom: 150px;
+}
+.g4{
+   /* background-color: #dfdbdb;  
+   border-radius: 10px;
+   margin-bottom: 100px; */
+   /*color : rgb(255, 111, 0);*/
+   color :  #04AA6D;
+   /*color:#e65c00;*/
+   font-size : 50px;
+   font-weight: bolder;
+}

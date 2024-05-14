@@ -1,0 +1,23 @@
+.h1{
+    color: white;
+    font-size : 30px;
+    font-weight: bold;
+    line-height: 100px;
+    border-radius: 100px;
+    max-width : 100px;
+    max-height : 100px;
+    background-color:  #1aa3ff ;
+    text-align: center;
+}
+.h2{
+    color : #071E67;
+    font-size : 20px;
+    text-align: center;
+    margin-left: -100px; 
+    font-weight: bold;
+}
+@media only screen and (min-width: 992px){
+    .h2{
+        margin-left: -70px;
+    }
+}

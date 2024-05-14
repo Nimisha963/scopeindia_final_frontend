@@ -1,0 +1,46 @@
+.i1 {
+   padding-bottom: 20px;
+   padding-top: 20px;
+}
+
+.i2 {
+   position: relative;
+   top: 100px;
+   font-size: 50px;
+   font-weight: bolder;
+   color: rgb(255, 111, 0); 
+
+}
+
+
+.i3 label {
+   color: black;
+   margin-bottom: 20px;
+}
+
+.i4 {
+   margin-top: 150px;
+   background-color: #f5f3f3;
+   border-radius: 10px;
+  
+}
+
+.i5 {
+   font-size: 35px;
+   color :  #04AA6D;
+   font-weight: bold;
+
+}
+
+.i6 {
+   border-radius: 5px;
+   background-color: #000c81;
+   border: none;
+   color: white;
+   text-decoration: none;
+
+}
+.i6:hover{
+   color : rgb(255, 200, 0);
+}
+

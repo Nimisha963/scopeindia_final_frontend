@@ -1,0 +1,40 @@
+.e1{
+  /* margin-right: 70px;
+   margin-top : 50px; */
+}
+.e2{
+    text-decoration: none;
+}
+.e3{
+    font-size: 50px;
+    line-height: 25px;
+    font-weight: 500;
+    color: #000c81;
+    /*margin-top: 50px; */
+}
+.e4{
+    color : black;
+    /*margin-top: 30px; */ 
+    text-align: justify;
+}
+.e1 img{
+    height: 70px;
+}
+.e1 img:hover{
+    position: relative;
+    animation-name: test;
+    animation-fill-mode: forwards;
+    animation-duration: 800ms;
+}
+
+@keyframes test {
+    0%{
+        bottom: 0px;
+    }
+    100%{
+        bottom: 2px;
+        padding-bottom: 5px;
+        border-bottom: 3px solid #2eb82e;
+    }
+}
+

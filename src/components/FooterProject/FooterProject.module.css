@@ -1,0 +1,18 @@
+.f6{
+    position : relative;
+    z-index: 1000;
+}
+.f3 img{
+    width : 8%;
+}
+.f4{
+    color: white;
+    
+}
+.f5{
+    text-decoration: none;
+    color : white;
+}
+.f5:hover{
+    text-decoration: underline;
+}

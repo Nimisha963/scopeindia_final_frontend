@@ -1,0 +1,48 @@
+.k1 {
+    position: relative;
+    top: 100px;
+    font-size : 50px;
+    font-weight: bolder;
+    /* color: #009318; */
+    color: #e65c00; 
+    margin-bottom: 100px;
+ }
+ .k2{
+        border-radius: 5px;
+        background-color: #000c81;
+        border: none;
+        color: white;
+        text-decoration: none;
+     
+ }
+ .k3{
+    border-radius: 5px;
+    background-color:#046daa;
+    border: none;
+    color: white;
+    font-size: 30px;
+ }
+ .k4{
+    /*background-color: #f4eeee;*/
+    background-color: #f1f1f1;
+    border-radius: 15px;
+ }
+ .k5{
+   background-color: #04AA6D;
+   border: none;
+   border-radius: 3px;
+   color : white
+ }
+
+ /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+ @media only screen and (min-width: 992px) {
+   .content {
+      margin-left: 200px;
+      padding: 1px 16px;
+      height: 1000px;
+      margin-bottom: 200px;
+    } 
+    .k6{
+      margin-left:200px
+    }
+ }

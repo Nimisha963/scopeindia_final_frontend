@@ -1,0 +1,41 @@
+.d1{
+    font-size: 55px;
+    line-height: 65px;
+    font-weight: bolder;
+    color: #000c81;
+    font-weight: 500;
+}
+.d2{
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 42px;
+    font-weight: 500;
+    color: #000c81;
+    margin-bottom: 50px;
+}
+.d3,.d4{
+    text-align: justify;
+    line-height: 30px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-left : 100px;
+    margin-right : 100px; */
+}
+.d5, .d6, .d7{
+    display: block;
+    text-decoration: none;
+    margin-bottom: 18px;
+    padding: 12px;
+    border-radius: 7px;
+    background-color:#5ead5e;
+    color: white;
+    font-size: 20px;
+    /* margin-left : 100px;
+    margin-right : 100px; */
+}
+@media screen and (min-width : 992px){
+    .d3,.d4,.d5,.d6,.d7{
+        margin-left : 100px;
+        margin-right : 100px;
+    }
+}
